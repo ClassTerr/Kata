@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics_Solver_5b5fe164b88263ad3d00250b", "Alphametics_Solver_5b5fe164b88263ad3d00250b\Alphametics_Solver_5b5fe164b88263ad3d00250b.csproj", "{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics_Solver_5b5fe164b88263ad3d00250b", "Alphametics\Alphametics_Solver_5b5fe164b88263ad3d00250b\Alphametics_Solver_5b5fe164b88263ad3d00250b.csproj", "{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests", "Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests\Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests.csproj", "{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests", "Alphametics\Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests\Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests.csproj", "{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alphametics", "Alphametics", "{CAC2BF08-26CE-4C64-AAC4-515A1F0F18AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +20,9 @@ Global
 		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33} = {CAC2BF08-26CE-4C64-AAC4-515A1F0F18AF}
+		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC} = {CAC2BF08-26CE-4C64-AAC4-515A1F0F18AF}
 	EndGlobalSection
 EndGlobal
