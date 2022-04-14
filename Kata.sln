@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics_Solver_5b5fe164b88263ad3d00250b", "Alphametics_Solver_5b5fe164b88263ad3d00250b\Alphametics_Solver_5b5fe164b88263ad3d00250b.csproj", "{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests", "Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests\Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests.csproj", "{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB86E92-7166-4C10-BDEF-2F2BEE70AF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A76E727-BAA0-4FA5-934F-A89CFF6676EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
