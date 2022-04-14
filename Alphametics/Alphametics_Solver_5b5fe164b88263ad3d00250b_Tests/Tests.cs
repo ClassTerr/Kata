@@ -5,7 +5,7 @@ using System.Linq;
 namespace Alphametics_Solver_5b5fe164b88263ad3d00250b_Tests;
 
 [TestFixture]
-public class ExampleTests
+public class Tests
 {
     [Test, Description("5 Example Tests"), TestCaseSource(nameof(_examples))]
     public static void ExampleTest(string s)
