@@ -1,6 +1,5 @@
 using NUnit.Framework;
 using Skyscrapers6By6_5679d5a3f2272011d700000d;
-using System.Linq;
 
 namespace Skyscrapers6By6_5679d5a3f2272011d700000d_Tests;
 
